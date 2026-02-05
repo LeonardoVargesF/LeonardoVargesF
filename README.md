@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Leonardo!
 
-<!--
-**LeonardoVargesF/LeonardoVargesF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação no IFSP  
+💻 Desenvolvedor focado em back-end, APIs e arquitetura de software  
+🚀 Interessado em Inteligência Artificial, sistemas distribuídos e boas práticas de desenvolvimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens e Tecnologias
+
+**Principais linguagens:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+
+**Frameworks e ferramentas:**  
+- .NET / ASP.NET Core  
+- Entity Framework Core  
+- Node.js  
+- Git & GitHub  
+- SQL Server  
+
+---
+
+## 🧠 Áreas de Interesse
+
+- 🧩 **Back-end e APIs REST** — foco em organização, desempenho e manutenibilidade  
+- 🏗️ **Arquitetura de Software** — Clean Architecture, SOLID, CQRS  
+- 🤖 **Inteligência Artificial** — visão computacional e aprendizado profundo  
+- 🛡️ **Sistemas seguros e confiáveis**  
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de APIs com ASP.NET Core  
+- Clean Architecture e padrões de projeto  
+- Reconhecimento facial e visão computacional (FaceNet, MTCNN)  
+- Bancos de dados relacionais e modelagem  
+
+---
+
+## 💬 Sobre mim
+
+Sou movido por curiosidade e gosto de entender como as coisas funcionam por trás do código.  
+Tenho interesse em desenvolver soluções bem estruturadas, buscando sempre boas práticas, organização e aprendizado contínuo. Acredito que código limpo e bem pensado facilita manutenção, evolução e trabalho em equipe.
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
