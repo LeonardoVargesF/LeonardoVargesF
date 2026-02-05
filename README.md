@@ -9,15 +9,16 @@
 ## 🛠️ Linguagens e Tecnologias
 
 **Principais linguagens:**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 
 **Frameworks e ferramentas:**  
 - .NET / ASP.NET Core  
-- Entity Framework Core  
-- Node.js  
+- Entity Framework Core
+- FluentValidation
+- MediatR
 - Git & GitHub  
 - SQL Server  
 
@@ -50,5 +51,5 @@ Tenho interesse em desenvolver soluções bem estruturadas, buscando sempre boas
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/leonardo-varges-francischini-132773394/))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:leonardovfrancischini@gmail.com)
