@@ -51,5 +51,5 @@ Tenho interesse em desenvolver soluções bem estruturadas, buscando sempre boas
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/leonardo-varges-francischini-132773394/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardo-varges-francischini-132773394/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:leonardovfrancischini@gmail.com)
