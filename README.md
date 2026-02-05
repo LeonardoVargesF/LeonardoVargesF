@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Computação no IFSP  
 💻 Desenvolvedor focado em back-end, APIs e arquitetura de software  
-🚀 Interessado em Inteligência Artificial, sistemas distribuídos e boas práticas de desenvolvimento  
+🚀 Interessado em Inteligência Artificial
 
 ---
 
